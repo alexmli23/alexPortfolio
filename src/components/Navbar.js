@@ -32,7 +32,7 @@ const Navbar = () => {
       bg-gradient-to-r from-teal-400 via-orange-400 to-yellow-300 bg-clip-text text-transparent animate-gradient-flow">
               {location.pathname === "/Developing" && <span className="bg-white text-black px-2 rounded-sm">Developing</span>}
       {location.pathname !== "/Developing" && (
-        <button onClick={() => handleClick("Developing")}>
+        <button onClick={() => handleClick("/Developing")}>
         Developing
     </button>
       )}
