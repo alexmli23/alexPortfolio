@@ -17,7 +17,7 @@ const Navbar = () => {
           <span className="bg-white text-black px-2 rounded-sm">Contact</span>
         )}
         {location.pathname !== "/alexPortfolio/Contact" && (
-          <button onClick={() => handleClick("/Contact")}>
+          <button onClick={() => handleClick("/alexPortfolio/Contact")}>
             <span>Contact</span>
           </button>
         )}
@@ -28,7 +28,7 @@ const Navbar = () => {
           <span className="bg-white text-black px-2 rounded-sm">Home</span>
         )}
         {location.pathname !== "/alexPortfolio/" && (
-          <button onClick={() => handleClick("/")}>
+          <button onClick={() => handleClick("/alexPortfolio/")}>
             <span>Home</span>
           </button>
         )}
@@ -39,7 +39,7 @@ const Navbar = () => {
           <span className="bg-white text-black px-2 rounded-sm">Developing</span>
         )}
         {location.pathname !== "/alexPortfolio/Developing" && (
-          <button onClick={() => handleClick("/Developing")}>
+          <button onClick={() => handleClick("/alexPortfolio/Developing")}>
             Developing
           </button>
         )}
