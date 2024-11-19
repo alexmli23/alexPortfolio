@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/alexPortfolio/static/css/main.1d7e510d.css",
-    "main.js": "/alexPortfolio/static/js/main.f44c9344.js",
+    "main.js": "/alexPortfolio/static/js/main.671f29ae.js",
     "static/js/453.f30bceaf.chunk.js": "/alexPortfolio/static/js/453.f30bceaf.chunk.js",
     "static/media/GreyScaleApp.png": "/alexPortfolio/static/media/GreyScaleApp.0b52c625ff410ff6ff60.png",
     "static/media/OrangeOpinon.png": "/alexPortfolio/static/media/OrangeOpinon.fb1d695441545f610428.png",
     "static/media/Webfolio.png": "/alexPortfolio/static/media/Webfolio.68fe213bd58e5e0d59c6.png",
     "index.html": "/alexPortfolio/index.html",
     "main.1d7e510d.css.map": "/alexPortfolio/static/css/main.1d7e510d.css.map",
-    "main.f44c9344.js.map": "/alexPortfolio/static/js/main.f44c9344.js.map",
+    "main.671f29ae.js.map": "/alexPortfolio/static/js/main.671f29ae.js.map",
     "453.f30bceaf.chunk.js.map": "/alexPortfolio/static/js/453.f30bceaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d7e510d.css",
-    "static/js/main.f44c9344.js"
+    "static/js/main.671f29ae.js"
   ]
 }
