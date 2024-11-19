@@ -6,8 +6,8 @@ const Navbar = () => {
   const location = useLocation();
 
   const handleClick = (path) => {
-    navigate(`/alexPortfolio${path}`);
-  };
+    navigate(path); // Since basename already prepends /alexPortfolio
+    }
 
   return (
     <div className="fixed top-0 w-full bg-[#2C2C2C] flex flex-row justify-center text-white py-10 px-6 z-50">
