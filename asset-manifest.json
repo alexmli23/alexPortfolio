@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/alexPortfolio/static/css/main.1d7e510d.css",
-    "main.js": "/alexPortfolio/static/js/main.e6a87035.js",
-    "static/js/453.f30bceaf.chunk.js": "/alexPortfolio/static/js/453.f30bceaf.chunk.js",
-    "static/media/GreyScaleApp.png": "/alexPortfolio/static/media/GreyScaleApp.0b52c625ff410ff6ff60.png",
-    "static/media/OrangeOpinon.png": "/alexPortfolio/static/media/OrangeOpinon.fb1d695441545f610428.png",
-    "static/media/Webfolio.png": "/alexPortfolio/static/media/Webfolio.68fe213bd58e5e0d59c6.png",
-    "index.html": "/alexPortfolio/index.html",
-    "main.1d7e510d.css.map": "/alexPortfolio/static/css/main.1d7e510d.css.map",
-    "main.e6a87035.js.map": "/alexPortfolio/static/js/main.e6a87035.js.map",
-    "453.f30bceaf.chunk.js.map": "/alexPortfolio/static/js/453.f30bceaf.chunk.js.map"
+    "main.css": "/static/css/main.1d7e510d.css",
+    "main.js": "/static/js/main.0341c622.js",
+    "static/js/453.f30bceaf.chunk.js": "/static/js/453.f30bceaf.chunk.js",
+    "static/media/GreyScaleApp.png": "/static/media/GreyScaleApp.0b52c625ff410ff6ff60.png",
+    "static/media/OrangeOpinon.png": "/static/media/OrangeOpinon.fb1d695441545f610428.png",
+    "static/media/Webfolio.png": "/static/media/Webfolio.68fe213bd58e5e0d59c6.png",
+    "index.html": "/index.html",
+    "main.1d7e510d.css.map": "/static/css/main.1d7e510d.css.map",
+    "main.0341c622.js.map": "/static/js/main.0341c622.js.map",
+    "453.f30bceaf.chunk.js.map": "/static/js/453.f30bceaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d7e510d.css",
-    "static/js/main.e6a87035.js"
+    "static/js/main.0341c622.js"
   ]
 }
